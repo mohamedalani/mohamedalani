@@ -1,0 +1,13 @@
+# Ignorer les fichiers de développement
+.git
+.gitignore
+README.md
+.DS_Store
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.log
+
+# Ignorer les dossiers de dépendances (si ajoutés plus tard)
+node_modules
+.npm

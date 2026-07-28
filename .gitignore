@@ -1,0 +1,15 @@
+# Variables d'environnement (contient des secrets — ne jamais committer)
+.env
+.env.local
+.env.*.local
+
+# Fichiers système
+.DS_Store
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Dépendances (si ajoutées plus tard)
+node_modules
+.npm

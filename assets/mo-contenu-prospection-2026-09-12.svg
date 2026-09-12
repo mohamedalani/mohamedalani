@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#102a30"/>
+      <stop offset="1" stop-color="#223b40"/>
+    </linearGradient>
+    <clipPath id="portrait"><rect x="650" y="80" width="370" height="370" rx="55"/></clipPath>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect x="65" y="72" width="365" height="56" rx="28" fill="#3de6bf"/>
+  <text x="88" y="110" font-family="Arial, sans-serif" font-size="30" fill="#0d1f23">ACQUISITION LINKEDIN</text>
+  <image href="https://avatars.githubusercontent.com/u/22443544?v=4" x="650" y="80" width="370" height="370" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)"/>
+  <g font-family="Arial, sans-serif" font-weight="700" font-size="72" fill="#f8f7f1">
+    <text x="65" y="245">IL A VU</text><text x="65" y="325">TON POST.</text>
+    <text x="65" y="505">TON MESSAGE</text><text x="65" y="585">N’ARRIVE PLUS</text><text x="65" y="665">À FROID.</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="700" fill="#0d1f23">
+    <rect x="70" y="760" width="240" height="175" rx="26" fill="#f8f7f1"/>
+    <rect x="420" y="760" width="240" height="175" rx="26" fill="#f8f7f1"/>
+    <rect x="770" y="760" width="240" height="175" rx="26" fill="#f8f7f1"/>
+    <circle cx="118" cy="806" r="26" fill="#ff4444"/><circle cx="468" cy="806" r="26" fill="#ff4444"/><circle cx="818" cy="806" r="26" fill="#ff4444"/>
+    <text x="118" y="816" text-anchor="middle" font-size="24" fill="#fff">1</text><text x="468" y="816" text-anchor="middle" font-size="24" fill="#fff">2</text><text x="818" y="816" text-anchor="middle" font-size="24" fill="#fff">3</text>
+    <text x="190" y="875" text-anchor="middle" font-size="34">POST</text><text x="540" y="875" text-anchor="middle" font-size="34">MESSAGE</text><text x="890" y="875" text-anchor="middle" font-size="34">RDV</text>
+  </g>
+  <g fill="none" stroke="#ff4444" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M320 846 L342 842 L365 850 L390 844 L412 846"/><path d="M670 846 L692 842 L715 850 L740 844 L762 846"/>
+  </g>
+  <g fill="#ff4444"><path d="M412 846 l-25 -18 v36z"/><path d="M762 846 l-25 -18 v36z"/></g>
+  <rect x="68" y="1030" width="944" height="210" rx="38" fill="#eefffA"/>
+  <text x="540" y="1110" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="44" fill="#0d1f23">CONTENU + PROSPECTION</text>
+  <text x="540" y="1180" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#0d1f23">Même acquisition. Même confiance.</text>
+  <text x="70" y="1315" font-family="Arial, sans-serif" font-weight="700" font-size="34" fill="#f8f7f1">MO ALANI</text>
+</svg>

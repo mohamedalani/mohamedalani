@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F5F1E8"/>
+  <text x="82" y="170" fill="#101010" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="800">1 HEURE.</text>
+  <text x="84" y="310" fill="#101010" font-family="Arial,Helvetica,sans-serif" font-size="50">APRÈS UNE VRAIE</text>
+  <text x="84" y="375" fill="#101010" font-family="Arial,Helvetica,sans-serif" font-size="50">PAROLE CLIENT :</text>
+  <text x="82" y="565" fill="#101010" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800">UNE DÉMO</text>
+  <text x="82" y="665" fill="#101010" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800">+ UN PRIX</text>
+  <path d="M78 735 C300 762 548 718 742 742" fill="none" stroke="#E53935" stroke-width="17" stroke-linecap="round"/>
+  <path d="M790 592 C875 535 929 460 957 373 M957 373 L910 411 M957 373 L971 434" fill="none" stroke="#E53935" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="82" y="875" width="850" height="2" fill="#101010" opacity="0.18"/>
+  <text x="82" y="985" fill="#101010" font-family="Arial,Helvetica,sans-serif" font-size="44">La vitesse utile commence</text>
+  <text x="82" y="1050" fill="#101010" font-family="Arial,Helvetica,sans-serif" font-size="44">juste après le call.</text>
+  <text x="82" y="1170" fill="#E53935" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="700">Le prospect n’attend pas</text>
+  <text x="82" y="1235" fill="#E53935" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="700">ton prochain comité.</text>
+</svg>

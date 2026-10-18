@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#0A0E12"/>
+  <rect x="65" y="60" width="290" height="56" rx="28" fill="#19232D"/>
+  <text x="92" y="98" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#22D3AA">AUDIT REDDIT</text>
+
+  <text x="65" y="230" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#F5F7FA">107 COMMENTAIRES.</text>
+  <text x="65" y="315" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#F5F7FA">LE VERDICT FAIT MAL.</text>
+  <text x="65" y="387" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#9EA8B4">Taux de réponse observé sur 30 jours</text>
+
+  <text x="70" y="505" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F5F7FA">PUNCHLINES</text>
+  <text x="1000" y="505" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#EF4444">21 %</text>
+  <rect x="70" y="532" width="760" height="55" rx="27" fill="#1C252F"/>
+  <rect x="70" y="532" width="319" height="55" rx="27" fill="#EF4444"/>
+  <text x="70" y="625" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#9EA8B4">14 commentaires</text>
+
+  <text x="70" y="712" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F5F7FA">COURTS + DÉCONTRACTÉS</text>
+  <text x="1000" y="712" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#22D3AA">46 %</text>
+  <rect x="70" y="739" width="760" height="55" rx="27" fill="#1C252F"/>
+  <rect x="70" y="739" width="699" height="55" rx="27" fill="#22D3AA"/>
+  <text x="70" y="832" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#9EA8B4">39 commentaires</text>
+
+  <text x="70" y="919" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F5F7FA">CONVERSATIONNELS</text>
+  <text x="1000" y="919" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#49E8BD">48 %</text>
+  <rect x="70" y="946" width="760" height="55" rx="27" fill="#1C252F"/>
+  <rect x="70" y="946" width="730" height="55" rx="27" fill="#49E8BD"/>
+  <text x="70" y="1039" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#9EA8B4">44 commentaires</text>
+
+  <rect x="65" y="1080" width="950" height="178" rx="36" fill="#141D25" stroke="#22D3AA" stroke-width="4"/>
+  <text x="105" y="1150" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#49E8BD">PLUS DE 2× LE TAUX DE RÉPONSE</text>
+  <text x="105" y="1210" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#F5F7FA">quand le message parle comme un humain.</text>
+
+  <text x="70" y="1325" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#9EA8B4">Données agrégées, sans identité ni message privé</text>
+</svg>
